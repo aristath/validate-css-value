@@ -1,5 +1,5 @@
 {
-    "name": "validate-css-value",
+    "name": "@aristath/validate-css-value",
     "version": "1.0.0",
     "description": "Give me a string and I'll tell you if it's a valid CSS value.",
     "main": "index.js",
