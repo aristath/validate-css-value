@@ -4,19 +4,16 @@
     "description": "Give me a string and I'll tell you if it's a valid CSS value.",
     "main": "index.js",
     "repository": {
-      "type": "git",
-      "url": "https://github.com/aristath/validate-css-value"
+        "type": "git",
+        "url": "https://github.com/aristath/validate-css-value"
     },
-    "keywords": [
-      "css",
-      "size",
-      "validation"
-    ],
+    "keywords": [ "css", "size", "validation" ],
     "author": "aristath",
     "license": "MIT",
     "bugs": {
-      "url": "https://github.com/aristath/validate-css-value/issues"
+        "url": "https://github.com/aristath/validate-css-value/issues"
     },
-    "homepage": "https://github.com/aristath/validate-css-value"
-  }
+    "homepage": "https://github.com/aristath/validate-css-value",
+    "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+}
   
