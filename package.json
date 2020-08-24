@@ -14,6 +14,9 @@
         "url": "https://github.com/aristath/validate-css-value/issues"
     },
     "homepage": "https://github.com/aristath/validate-css-value",
-    "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/",
+		"access": "public"
+	}
 }
   
