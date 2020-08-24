@@ -1,2 +1,3 @@
-# css-value-validation
-Validate CSS values
+# Validate CSS Value
+
+A simple package to help validate CSS size values.
