@@ -7,7 +7,11 @@
         "type": "git",
         "url": "https://github.com/aristath/validate-css-value"
     },
-    "keywords": [ "css", "size", "validation" ],
+    "keywords": [
+        "css",
+        "size",
+        "validation"
+    ],
     "author": "aristath",
     "license": "MIT",
     "bugs": {
@@ -16,7 +20,6 @@
     "homepage": "https://github.com/aristath/validate-css-value",
     "publishConfig": {
         "registry": "https://npm.pkg.github.com/",
-		"access": "public"
-	}
+        "access": "public"
+    }
 }
-  
